@@ -1,0 +1,28 @@
+
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#title {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+
+}
+
+#invitation_link{
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.font_p{
+    font-size: 21px;
+    counter-reset: gray;
+}
+
+#header2{
+    font-size: 42px;
+    font-weight: 300;
+}
